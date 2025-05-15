@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá, eu sou Nathaly Cristine👋
 
-<!--
-**nath-sans/nath-sans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ## 📍 Sobre mim
+ Sou uma estudante de T.I na escola Senac, explorando diferentes áreas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ⚙️ **Hardware** - Montagem, manutenção e funcionamento interno de computador 
+ 
+- 🌐 **Infraestrutura de Rede** – Protocolos, configuração de redes e segurança  
+- 💻 **Programação** – Desenvolvimento de software e lógica de programação  
+
+## 💡 Habilidades e Tecnologias  
+Aqui estão algumas das tecnologias que estou aprendendo e praticando:  
+- **Linguagens:** [Exemplo: Python, JavaScript, C++]  
+- **Redes:** [Exemplo: TCP/IP, Configuração de Roteadores, Firewall]  
+- **Hardware:** [Exemplo: Manutenção de PCs, Diagnóstico de Problemas]  
+- **Ferramentas:** [Exemplo: Git, Virtualização, Linux]  
+
+## 🎯 Objetivos  
+- Aprimorar minhas habilidades técnicas e práticas na área de TI  
+- Contribuir para projetos práticos e open source  
+- Desenvolver soluções eficientes para desafios do mundo digital  
+
+## 📫 Contato  
+
+
+
+ 
+  
+
